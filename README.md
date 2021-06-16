@@ -17,8 +17,3 @@ Edge Killerは定期的にダウンロードする必要があります。
 Edge Killerを削除することで、コンピュータに支障がでても一切責任を負いません。
 
 無断転載は禁止します。
-
-改善・要望を出してくれると今後の開発の参考になるのでよろしくおねがいします。
-
-質問・改善・要望はGitHubのコメント欄みたいなところでお願いします。
-これかな？https://github.com/TYUIN-Lab/Edge-Killer-Project/commit/73a74c4e91e3e9b65109f2b1e02cd07c7b99028b
