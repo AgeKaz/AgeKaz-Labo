@@ -3,6 +3,7 @@
 当サイトでは、AgeKaz Labo公式がAgeKaz Labo製ソフトを公開しているサイトになります。
 
 Edge Killer 7
+
 Cortana Killer
 
 の配布を行っています。
