@@ -1,22 +1,17 @@
-# Edge-Killer-Project
+# AgeKaz Labo
 
-(日本語翻訳を止めてください）
+当サイトでは、AgeKaz Labo公式がAgeKaz Labo製ソフトを公開しているサイトになります。
 
-Edge Killerを配布する場所です。
+Edge Killer 7
+Cortana Killer
 
-Edge Killerは定期的にダウンロードする必要があります。
+の配布を行っています。
 
-MS Edge が更新された場合、Edge Killerが使えなくなります。そのため、このサイトでの最新版の配布をお待ち下さい。
+ここで配布されるソフトでPCに支障が起きても、責任は取りません。
 
-消すことはできますが、WindowsUpdateにより再インストールされる可能性があります。
 
-もし再インストールされた場合、このサイトでEdge Killerを再インストールして削除してください。
 
-Edge Killerは定期的にダウンロードする必要があります。
 
-Edge Killerを削除することで、コンピュータに支障がでても一切責任を負いません。
-
-無断転載は禁止します。
 
 最近、AgeKaz Labo製Edge Killerの配布サイトを語る偽サイトが発生しています。
 つまり、AgeKaz Labo製のEdge Killerの海賊版の流通です。
