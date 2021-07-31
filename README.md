@@ -15,8 +15,7 @@ Cortana Killer
 
 
 最近、AgeKaz Labo製Edge Killerの配布サイトを語る偽サイトが発生しています。
-つまり、AgeKaz Labo製のEdge Killerの海賊版の流通です。
-AgeKaz Labo製Edge KillerはAgeKaz Laboが開発しています。
-AgeKaz Labo製Edge Killerのダウンロードはこのサイトから行うことをお勧めします。
+このサイトは、AgeKaz Laboの公式GitHubです。
+偽サイトでのダウンロードは推奨されません。
 
-その他、AgeKaz Labo製ではない、独自のEdge Killerを開発している方には応援致します。
+その他、AgeKaz Labo製ではない、独自のEdge Killerを開発している方には一切影響ありません。
