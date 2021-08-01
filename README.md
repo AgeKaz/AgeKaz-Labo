@@ -19,3 +19,6 @@ Cortana Killer
 偽サイトでのダウンロードは推奨されません。
 
 その他、AgeKaz Labo製ではない、独自のEdge Killerを開発している方には一切影響ありません。
+
+↓中の人ツイッター
+https://twitter.com/AgeKazLabo
