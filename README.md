@@ -3,6 +3,7 @@
 当サイトでは、AgeKaz Labo公式がAgeKaz Labo製ソフトを公開しているサイトになります。
 
 Edge Killer 7
+Edge Killer 8
 
 Cortana Killer
 
@@ -20,5 +21,3 @@ Cortana Killer
 
 その他、AgeKaz Labo製ではない、独自のEdge Killerを開発している方には一切影響ありません。
 
-↓中の人ツイッター
-https://twitter.com/AgeKazLabo
