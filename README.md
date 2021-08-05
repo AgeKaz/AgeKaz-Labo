@@ -2,6 +2,7 @@
 
 当サイトでは、AgeKaz Labo公式がAgeKaz Labo製ソフトを公開しているサイトになります。
 
+Edge Killer 5
 Edge Killer 7
 Edge Killer 8
 
