@@ -1,21 +1,6 @@
-# AgeKaz Labo
-
-当サイトでは、AgeKaz Labo公式がAgeKaz Labo製ソフトを公開しているサイトになります。
-
-Edge Killer
-Cortana Killer
-
-の配布を行っています。
-
-ここで配布されるソフトでPCに支障が起きても、責任は取りません。
-
-
-
-
-
-最近、AgeKaz Labo製Edge Killerの配布サイトを語る偽サイトが発生しています。
-このサイトは、AgeKaz Laboの公式GitHubです。
-偽サイトでのダウンロードは推奨されません。
-
-その他、AgeKaz Labo製ではない、独自のEdge Killerを開発している方には一切影響ありません。
-
+#AgeKaz Labo
+AgeKaz Laboのソフトウェア配布場所です。
+EdgeKillerの最新版の配布予定はありません。
+CortanaKillerのVER.2.0は完成予定です。
+その他ソフトウェアの開発も予定しています。
+しばらくお待ちください。
